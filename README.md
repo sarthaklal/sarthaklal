@@ -41,9 +41,7 @@
   </a>
   
   <!-- X (Formerly Twitter) -->
-  <a href="https://x.com/sarthaklal01" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="30" width="40" />
-  </a>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sarthaklal01) 
   
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/sarthak_3131" target="_blank" style="text-decoration: none;">
