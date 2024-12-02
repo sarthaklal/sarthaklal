@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hi! Sarthak here
+Web Developer
  🔭 I’m currently a 2nd year CSE student at SRM University<br><br>👯 I’m looking to collaborate on Web Applications<br><br>🤝 Ready to team up for projects :)<br><br>📫 Reach me at sarthaklal5@gmail.com
 
 # 💻 Tech Stack:
