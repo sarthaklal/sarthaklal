@@ -28,33 +28,31 @@
 
  ## 🌐 Socials:
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; padding: 20px 0;">
-
+<div align="center">
   <!-- Instagram -->
-  <a href="https://instagram.com/sarrthxk_" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="40" width="40" style="transition: transform 0.3s ease;"/>
+  <a href="https://instagram.com/sarrthxk_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" height="40" width="40" style="transition: transform 0.3s ease;" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/sarthaklal" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="transition: transform 0.3s ease;"/>
+  <a href="https://linkedin.com/in/sarthaklal" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="transition: transform 0.3s ease;" />
   </a>
 
   <!-- X (Formerly Twitter) -->
-  <a href="https://x.com/sarthaklal01" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="40" width="40" style="transition: transform 0.3s ease;"/>
+  <a href="https://x.com/sarthaklal01" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="40" width="40" style="transition: transform 0.3s ease;" />
   </a>
 
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/sarthak_3131" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" style="transition: transform 0.3s ease;"/>
+  <a href="https://www.codechef.com/users/sarthak_3131" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40" style="transition: transform 0.3s ease;" />
   </a>
 
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/sl4787" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" style="transition: transform 0.3s ease;"/>
+  <a href="https://www.hackerrank.com/sl4787" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" style="transition: transform 0.3s ease;" />
   </a>
-
 </div>
 
 <style>
@@ -68,4 +66,3 @@
     transition: transform 0.3s ease;
   }
 </style>
-
