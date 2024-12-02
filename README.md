@@ -22,4 +22,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sarthaklal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+![snake gif](https://github.com/sarthaklal/sarthaklal/blob/output/github-snake-dark.svg)
+</div>
