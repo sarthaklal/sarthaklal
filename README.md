@@ -1,5 +1,7 @@
 # 💫 About Me:
  🔭 I’m currently a 2nd year CSE student at SRM University<br><br>👯 I’m looking to collaborate on Web Applications<br><br>🤝 Ready to team up for projects :)<br><br>📫 Reach me at sarthaklal5@gmail.com
+<img align="right" alt="Coding" width="400" src="https://imgur.com/a/1UH2tdR"
+
 
 
 ## 🌐 Socials:
