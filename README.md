@@ -4,7 +4,7 @@
 <img align="right" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" width="355" height="200"/>
 <div align="left">  
 <br/> 
-🔭 I’m currently a 2nd year CSE student at SRM University<br><br>🎯 A Web Dev aficionado<br><br>👯 I’m looking to collaborate on Web Applications<br><br>🤝 Ready to team up for projects :)<br><br>📫 Reach me at **sarthaklal5@gmail.com**
+🔭 I’m currently a 2nd year CSE student at SRM University<br><br>🎯 A Web Dev aficionado<br><br>👯 I’m looking to collaborate on Web Applications<br><br>🤝 Ready to team up for projects :)<br><br>📫 Reach me at sarthaklal5@gmail.com
 
 
 
