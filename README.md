@@ -30,7 +30,7 @@
 <a target="_blank" href="https://www.instagram.com/sarrthxk_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 
----
+
 
 ## GitHub Profile Summary Cards
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthaklal&theme=gotham)
