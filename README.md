@@ -2,6 +2,9 @@
 # 💫 Hi Sarthak here
 🔭 I’m currently a 2nd year CSE student at SRM University<br><br>🎯 A Web Dev aficionado<br><br>👯 I’m looking to collaborate on Web Applications<br><br>🤝 Ready to team up for projects :)<br><br>📫 Reach me at sarthaklal5@gmail.com
 
+![boy_coding_animation](https://github.com/user-attachments/assets/addf09d9-a319-4efd-bdf9-09cdf4ec8fd9) 
+
+
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" style="max-width: 100%;">
 
 
