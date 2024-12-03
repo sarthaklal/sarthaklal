@@ -2,10 +2,14 @@
 # 💫 Hi Sarthak here
 🔭 I’m currently a 2nd year CSE student at SRM University<br><br>🎯 A Web Dev aficionado<br><br>👯 I’m looking to collaborate on Web Applications<br><br>🤝 Ready to team up for projects :)<br><br>📫 Reach me at sarthaklal5@gmail.com
 
-![boy_coding_animation](https://github.com/user-attachments/assets/addf09d9-a319-4efd-bdf9-09cdf4ec8fd9) 
+<img align="right" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" width="355" height="200"/>
+<div align="left">  
+<br/> 
 
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -31,7 +35,7 @@
 <p><a target="_blank" href="https://twitter.com/sarthaklal01" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/sarthaklal" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/sarrthxk_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -39,15 +43,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarthaklal&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarthaklal&theme=gotham) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarthaklal&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarthaklal&theme=gotham) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarthaklal&theme=gotham&utcOffset=8)  
-
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sarthaklal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
