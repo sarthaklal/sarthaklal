@@ -46,23 +46,21 @@
 
 ---
 
+
+
+## Profile View Counter Badge
+
+![Profile views counter](https://komarev.com/ghpvc/?username=sarthaklal&&style=flat-square)  
+
+---
 <div align="center">
 
  ![snake gif](https://github.com/sarthaklal/sarthaklal/blob/output/github-snake-dark.svg)
  
 </div>
 
-
-
-
 ---
 
-
-
-
-## Profile View Counter Badge
-
-![Profile views counter](https://komarev.com/ghpvc/?username=sarthaklal&&style=flat-square)  
 <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
 
 
